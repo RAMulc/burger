@@ -10,10 +10,8 @@ A burger logger with MySQL, Node, Express, Handlebars and a homemade ORM.
 [Installation](#Installation)
 <br>
 [Usage](#Usage)
-
 <br>
-[Future Development](#Future Development)
-
+[Future_Development](#Future_Development)
 <br>
 ---------------
 
@@ -39,7 +37,7 @@ The app is deployed to Heroku and makes use of JawsDB for the backend database.
 
 * The app stores every burger in a database, whether eaten or not.
 
-![](E:\UWA\Homework\UWA_HW13_Burger\Public\assets\img\Screenshot.png)
+![](https://github.com/RAMulc/burger/blob/main/Public/assets/img/Screenshot.png)
 
 
 
@@ -52,6 +50,6 @@ Run npm install to install the required packages.
 - Run 'node server.js' at the command line to start the program or follow the Heroku link provided above.
 
 
-## Future Development
+## Future_Development
 
 - Watch this space....
